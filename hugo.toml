@@ -2,8 +2,35 @@ baseURL = 'https://touchouss.lol/'
 languageCode = 'fr-be'
 title = "Les Tou'Chouss"
 theme = "touchouss"
+#theme = "loficode"
+
+# Enable emoji support
+enableEmoji = true
+
+# Output formats for SPA functionality
+[outputs]
+  home = ["HTML", "JSON", "pages"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+# Custom output formats
+[outputFormats]
+  [outputFormats.JSON]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true
+  [outputFormats.pages]
+    mediaType = "application/json"
+    baseName = "pages"
+    isPlainText = true
+
+# Pagination
+[pagination]
+  pagerSize = 6
+  path = "page"
+
 [params]
-  description = "troupe d'improvisation théâtrale basée à Liège" 
+  description = "Troupe d'improvisation théâtrale basée à Liège" 
 
   [params.author]
   # author section
@@ -12,8 +39,8 @@ theme = "touchouss"
 
   # Profile section
   [params.profile]
-    name = "Your Name"
-    tagline = "Your tagline here"
+    name = "Les Tou'Chouss"
+    tagline = "Tout en finesse"
     photo = "/images/profile.png"
 
   # Social links - Supported platforms: github, twitter, linkedin, email, mastodon, youtube, instagram, facebook
@@ -21,11 +48,11 @@ theme = "touchouss"
     #github = "raisingpixels"
     #twitter = "raisingpixels"
     # linkedin = "your-linkedin-username"
-    email = "your-email@example.com"
+    email = "placeimpro@gmail.com"
     # mastodon = "https://mastodon.social/@yourusername"
     # youtube = "https://youtube.com/@yourusername"
-    instagram = "your-instagram-username"
-    facebook = "your-facebook-username"
+    instagram = "https://www.instagram.com/lestouchouss//"
+    facebook = "https://www.facebook.com/touchoussimpro"
 
 # Navigation menu
 [[menu.main]]

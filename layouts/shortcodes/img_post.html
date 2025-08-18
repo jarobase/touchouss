@@ -1,0 +1,18 @@
+{{/* 
+ Shortcode : img_post
+ Usage : {{< img_post src="photo.jpg" size="300x150" alt="Texte alternatif" class="rounded shadow" >}}
+ This shortcode will resize the post image to $size and apply a css style to make sure the image 
+ fit the canvas even in mobile
+*/}}
+
+{{ $src := .Get "src" }}
+{{ $size := .Get "size" | default "900x" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $class := .Get "class" | default "" }}
+
+{{ with .Page.Resources.GetMatch $src }}
+  {{ $fitted := .Resize $size }}
+  <img src="{{ $fitted.RelPermalink }}" alt="{{ $alt }}" class="{{ $class }}">
+{{ else }}
+  <strong>Image non trouvée : {{ $src }}</strong>
+{{ end }}
