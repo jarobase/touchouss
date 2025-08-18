@@ -1,0 +1,3 @@
+[submodule "themes/loficode"]
+	path = themes/loficode
+	url = https://github.com/raisingpixels/loficode-hugo-theme.git

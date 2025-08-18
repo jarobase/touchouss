@@ -1,0 +1,50 @@
+baseURL = 'https://touchouss.lol/'
+languageCode = 'fr-be'
+title = "Les Tou'Chouss"
+theme = "touchouss"
+[params]
+  description = "troupe d'improvisation théâtrale basée à Liège" 
+
+  [params.author]
+  # author section
+  name= "Les Tou'Chouss"
+  image = "/images/profile.png"
+
+  # Profile section
+  [params.profile]
+    name = "Your Name"
+    tagline = "Your tagline here"
+    photo = "/images/profile.png"
+
+  # Social links - Supported platforms: github, twitter, linkedin, email, mastodon, youtube, instagram, facebook
+  [params.social]
+    #github = "raisingpixels"
+    #twitter = "raisingpixels"
+    # linkedin = "your-linkedin-username"
+    email = "your-email@example.com"
+    # mastodon = "https://mastodon.social/@yourusername"
+    # youtube = "https://youtube.com/@yourusername"
+    instagram = "your-instagram-username"
+    facebook = "your-facebook-username"
+
+# Navigation menu
+[[menu.main]]
+  name = "L'équipe"
+  url = "/about/"
+  weight = 10
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 20
+
+  [[menu.main]]
+  name = "Photos"
+  url = "/photos/"
+  weight = 30
+
+[[menu.main]]
+  name = "Voter"
+  url = "/voter/"
+  weight = 40
+
