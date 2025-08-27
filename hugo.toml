@@ -61,17 +61,12 @@ enableEmoji = true
   weight = 10
 
 [[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 20
-
-  [[menu.main]]
-  name = "Photos"
-  url = "/photos/"
-  weight = 30
+name = "Photos"
+url = "/photos/"
+weight = 20
 
 [[menu.main]]
   name = "Voter"
-  url = "/voter/"
+  url = "/vote/"
   weight = 40
 
