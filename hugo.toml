@@ -65,6 +65,12 @@ url = "/photos/"
 weight = 20
 
 [[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 30
+
+
+[[menu.main]]
   name = "Voter"
   url = "/vote/"
   weight = 40
