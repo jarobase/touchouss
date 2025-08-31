@@ -1,8 +1,7 @@
 baseURL = 'https://touchouss.lol/'
 languageCode = 'fr-be'
 title = "Les Tou'Chouss"
-theme = "touchouss"
-#theme = "loficode"
+theme = "loficode"
 
 # Enable emoji support
 enableEmoji = true
@@ -51,7 +50,7 @@ enableEmoji = true
     email = "placeimpro@gmail.com"
     # mastodon = "https://mastodon.social/@yourusername"
     # youtube = "https://youtube.com/@yourusername"
-    instagram = "https://www.instagram.com/lestouchouss//"
+    instagram = "https://www.instagram.com/lestouchouss"
     facebook = "https://www.facebook.com/touchoussimpro"
 
 # Navigation menu
