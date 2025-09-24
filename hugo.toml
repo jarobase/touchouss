@@ -81,3 +81,7 @@ weight = 30
   url = "/vote/"
   weight = 50
 
+# Github actions
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
