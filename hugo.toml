@@ -52,7 +52,7 @@ enableEmoji = true
     # youtube = "https://youtube.com/@yourusername"
     instagram = "https://www.instagram.com/lestouchouss"
     facebook = "https://www.facebook.com/touchoussimpro"
-    rss = "https://https://touchouss.lol/index.xml"
+    rss = "/index.xml"
 
 # Navigation menu
 
