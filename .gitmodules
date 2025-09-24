@@ -1,4 +1,5 @@
 [submodule "themes/loficode"]
 	path = themes/loficode
 	url = git@github.com:jarobase/loficode-hugo-theme.git
+	# Always point out to ths branch as we customize a lot the theme
 	branch = touchouss
