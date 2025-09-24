@@ -8,7 +8,7 @@ enableEmoji = true
 
 # Output formats for SPA functionality
 [outputs]
-  home = ["HTML", "JSON", "pages"]
+  home = ["HTML", "JSON", "RSS", "pages"]
   page = ["HTML"]
   section = ["HTML"]
 
@@ -52,6 +52,7 @@ enableEmoji = true
     # youtube = "https://youtube.com/@yourusername"
     instagram = "https://www.instagram.com/lestouchouss"
     facebook = "https://www.facebook.com/touchoussimpro"
+    rss = "https://https://touchouss.lol/index.xml"
 
 # Navigation menu
 

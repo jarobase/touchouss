@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<div id="post_frame" class="post-layout a_vote_height">
+    <article class="post-content post_content_large">
+        <header class="post-header">
+            <div class="post-meta">
+            </div>
+            <h1 class="post-title">Vote</h1>
+        </header>
+        <div class="vote_div">
+            <button class="btn btn-primary vote_btn" onclick="toggleColor();">
+                Cliquez ici pour changer le vote
+            </button>
+        </div>
+
+
+    </article>
+</div>
+<script>
+    var colors = [];
+    function toggleColor() {
+        const header = document.getElementsByTagName('header')[0];
+        const body = document.body;
+        const headerHeight = header.clientHeight; // header.offsetHeight
+        const bodyHeight = body.clientHeight;
+        const surface = document.getElementsByTagName('main')[0];
+        surface.style.height = `${bodyHeight - headerHeight}px`;
+        if (surface.style.backgroundColor) {
+            surface.style.backgroundColor = '';
+        } else {
+            surface.style.backgroundColor = 'DeepPink';
+        }
+    }
+</script>
+{{ end }}
