@@ -1,0 +1,4 @@
+---
+title: "Spectacles"
+layout: "event"
+---
