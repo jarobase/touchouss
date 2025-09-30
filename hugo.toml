@@ -1,6 +1,5 @@
-#baseURL = 'https://touchouss.lol/'
+baseURL = 'https://touchouss.lol/'
 #baseURL = 'https://tests.agayon.be'
-baseURL = 'https://jarobase.github.io/touchouss'
 languageCode = 'fr-be'
 title = "Les Tou'Chouss"
 theme = "loficode"
