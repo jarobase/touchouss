@@ -1,5 +1,4 @@
 baseURL = 'https://touchouss.lol/'
-#baseURL = 'https://tests.agayon.be'
 languageCode = 'fr-be'
 title = "Les Tou'Chouss"
 theme = "loficode"
