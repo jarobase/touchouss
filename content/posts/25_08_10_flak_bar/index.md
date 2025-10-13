@@ -1,6 +1,6 @@
 ---
 title: "Spectacle au Flak Bar"
-date: '2025-08-13T22:21:37+02:00'
+date: '2025-08-10T22:21:37+02:00'
 tags: ["Spectacle", "Cabaret"]
 ---
 

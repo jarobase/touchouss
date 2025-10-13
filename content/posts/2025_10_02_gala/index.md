@@ -1,6 +1,6 @@
 ---
 title: "Match de Gala: OMG vs Tou'Chouss"
-date: '2025-09-29T20:00:37+02:00'
+date: '2025-10-02T20:00:37+02:00'
 tags: ["Spectacle", "Rencontre"]
 ---
 

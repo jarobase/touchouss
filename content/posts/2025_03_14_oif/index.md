@@ -1,6 +1,6 @@
 ---
 title: "Oufti Improvisation Festival"
-date: '2025-03-15T22:21:37+02:00'
+date: '2025-03-14T22:21:37+02:00'
 tags: ["Spectacle", "Rencontre"]
 ---
 

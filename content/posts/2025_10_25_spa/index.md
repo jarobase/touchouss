@@ -1,6 +1,6 @@
 ---
 title: "🧊 L’impro dont tu es le héros – La Glacière de Spa  "
-date: '2025-10-10T20:00:37+02:00'
+date: '2025-10-25T20:00:37+02:00'
 tags: ["Spectacle", "Cabaret"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Synopsis le spectacle au Flak bar"
-date: '2025-06-13T22:21:37+02:00'
+date: '2025-06-15T22:21:37+02:00'
 tags: ["Spectacle", "Cabaret"]
 ---
 
