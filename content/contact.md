@@ -14,3 +14,5 @@ Envie d’un spectacle, d’une collab’ ou d’un concept complètement fou ? 
 --> 📨 [Mail](mailto:lestouchouss@gmail.com)  
 --> {{< fa fab instagram >}} [Instagram](https://www.instagram.com/lestouchouss)  
 --> {{< fa fab facebook >}} [Facebook](https://www.facebook.com/touchoussimpro)  
+
+Les Tou'Chouss ASBL • TVA: 1008.874.234
