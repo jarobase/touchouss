@@ -10,7 +10,7 @@ Les Tou’Chouss chaussent leurs skis pour affronter les Avocats du Diable — u
 
 ## Récap
 
-📅 Vendredi 29 novembre  
+📅 Samedi 29 novembre  
 📍 La Courte Échelle – Liège  
 🕗 20h00  
 💸 Tarif normal : 12€  
