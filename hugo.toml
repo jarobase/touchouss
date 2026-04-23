@@ -34,13 +34,13 @@ enableEmoji = true
   [params.author]
   # author section
   name= "Les Tou'Chouss"
-  image = "images/profile.png"
+  image = "images/profile.webp"
 
   # Profile section
   [params.profile]
     name = "Les Tou'Chouss"
     tagline = "Tout en finesse"
-    photo = "images/profile.png"
+    photo = "images/profile.webp"
 
   # Social links - Supported platforms: github, twitter, linkedin, email, mastodon, youtube, instagram, facebook
   [params.social]
