@@ -16,7 +16,7 @@ Merci aussi à nos super maîtres de cérémonie : Juliette, Alex, Clara, Yousse
 Enfin, merci Les Ardentes pour la confiance 💒  
 Vive le loveeee !   
 
-Nous revenons bien vite pour vous tenir au courant de notre rentgrée de folie qui s'annonce !
+Nous revenons bien vite pour vous tenir au courant de notre rentrée de folie qui s'annonce !
 
 ## 💏❤️‍🔥💋
 
